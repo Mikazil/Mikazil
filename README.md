@@ -1,1 +1,1 @@
-- Hi, i am from Russia and i love Coding.
+<img src="https://github.com/Mikazil/Mikazil/blob/main/banner.png?raw=true" alt="Hi, i'm Mikazil">
